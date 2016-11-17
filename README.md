@@ -3,3 +3,5 @@ Material del curso 'Workshop Quartz Composer' en la escuela de Artes Escénicas 
 
 Algunos links de interes:
   http://www.2v-p.tv/qc/
+  
+  Gestor de plugins: http://imimot.com/qc-plugin-manager/

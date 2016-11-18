@@ -8,4 +8,6 @@ Algunos links de interes:
   
   Plugin de cables rectos: http://kineme.net/KinemeCore
   
+  Plugin para ver parametros: https://github.com/ideo/avocado
+  
   

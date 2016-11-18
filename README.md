@@ -8,6 +8,8 @@ Algunos links de interes:
   
   Plugin de cables rectos: http://kineme.net/KinemeCore
   
-  Plugin para ver parametros: https://github.com/ideo/avocado
+  Plugin para ver parametros: https://github.com/ideo/avocado (no va en 10.11+)
+  
+  Plugins para blurs, etc.. http://v002.info
   
   

@@ -5,3 +5,7 @@ Algunos links de interes:
   http://www.2v-p.tv/qc/
   
   Gestor de plugins: http://imimot.com/qc-plugin-manager/
+  
+  Plugin de cables rectos: http://kineme.net/KinemeCore
+  
+  
